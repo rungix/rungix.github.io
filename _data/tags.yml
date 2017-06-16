@@ -12,14 +12,14 @@
 # ~~~
 
 gadget:
-  name: gadget
-  image: /public/img/hyde.jpg
+  name: Gadget
+  image: /public/img/roman_force.jpg
   color: '#949667'
   description: >
       Hub for interesting gadgets.
 
 security:
-  name: security
+  name: Security
   image: /public/img/realistnap.jpg
   color: '#949667'
   description: >

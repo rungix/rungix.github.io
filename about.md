@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+image: /public/img/roman_me.jpg
 ---
 
 {% comment %}
@@ -9,4 +10,3 @@ title: About
 {% endcomment %}
 {% include about-short.html author=site.author %}
 
-[write something about self]
