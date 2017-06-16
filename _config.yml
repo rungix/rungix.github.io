@@ -22,15 +22,12 @@ paginate_path:       '/page-:num/'
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
   A developer's notes
-  #A pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by [`@qwtel`{:style="background: rgba(255, 255, 255, 0.15)"}](https://twitter.com/qwtel)
-  #from [Hyde](http://hyde.getpoole.com).
-  #You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [gadget, security]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /public/img/realistnap.jpg
+image:               /public/img/romanticnap.jpg
 color:               '#A85641'
 
 # Fonts
@@ -49,10 +46,8 @@ author:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     Being no one, going nowhere.
-    # Hi, I'm Florian or [`@qwtel`](https://www.twitter.com/qwtel), which isn't an acronym,
-    #I just [wanted a short username](http://qwtel.com/how-to-find-a-short-username) and that one happened to be available.
 
-    #Read my thoughts on [#software](http://qwtel.com/tag/software) and [#cryptoeconomics](http://qwtel.com/tag/cryptoeconomics).
+    Read my thoughts on [#security](http://rungix.github.com/tag/security) and [#gadget](http://rungix.github.com/tag/gadget).
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide

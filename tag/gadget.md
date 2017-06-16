@@ -1,5 +1,5 @@
 ---
 layout: blog-by-tag
-tag: gadget
+tag: Gadget
 permalink: /tag/gadget/
 ---
